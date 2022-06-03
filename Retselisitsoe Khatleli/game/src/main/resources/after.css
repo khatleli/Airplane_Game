@@ -1,0 +1,6 @@
+.root{
+    -fx-background-image: url("nature.jpg");
+    -fx-background-size: 800 600;
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+}
